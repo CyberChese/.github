@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CyberChese/.github/main/profile/banner.svg" alt="CyberChase, estudantes de DSM da FATEC Jacareí" width="100%">
+  <img src="https://raw.githubusercontent.com/CyberChese/.github/main/profile/banner-cyberchase.png" alt="CyberChase, estudantes de DSM da FATEC Jacareí" width="100%">
 </p>
 
 Somos um grupo de estudantes do curso de **Desenvolvimento de Software Multiplataforma (DSM)** da **FATEC Jacareí**, dedicados à criação de soluções tecnológicas inovadoras.
